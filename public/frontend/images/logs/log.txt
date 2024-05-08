@@ -1,0 +1,59 @@
+[2023-10-28 08:37:46.291] [DEBUG] - Unknown property text-shadow
+[2023-10-28 08:37:46.298] [DEBUG] - Unknown property text-shadow
+[2023-10-28 08:37:46.300] [DEBUG] - Unknown property text-shadow
+[2023-10-28 08:37:46.300] [DEBUG] - Unknown property text-shadow
+[2023-10-28 08:37:46.311] [DEBUG] - Unknown property text-shadow
+[2023-10-28 08:37:46.312] [DEBUG] - Unknown property text-shadow
+[2023-10-28 08:37:46.330] [INFO ] - "trackThinkDataEvent  eventName =  setup_open"
+[2023-10-28 08:37:46.342] [INFO ] - "Support https : 0 , openssl buildversion: OpenSSL 1.1.1d  10 Sep 2019 , version : "
+[2023-10-28 08:37:46.342] [INFO ] - "postDataTrackRequest - url :http://datacollection-en.sl916.com/receiver/app"
+[2023-10-28 08:37:46.342] [INFO ] - "postDataTrackRequest - appId :1e78f13afed14ff2aafc68d79976306f"
+[2023-10-28 08:37:46.343] [WARN ] - QObject::connect: No such slot ThinkingDataReport::sslErrors(QNetworkReply*, QList<QSslError>) in e:\xingfanproj\qtproj\reverse1999-setupproject\nsis-ui-plugin\qt-ui\network\slabstractnetwork.cpp:159
+[2023-10-28 08:37:46.343] [WARN ] - QObject::connect:  (receiver name: 'SLAbstractNetwork')
+[2023-10-28 08:37:47.108] [DEBUG] - Unknown property text-shadow
+[2023-10-28 08:37:47.110] [DEBUG] - Unknown property text-shadow
+[2023-10-28 08:37:47.182] [DEBUG] - Unknown property text-shadow
+[2023-10-28 08:37:47.182] [DEBUG] - Unknown property text-shadow
+[2023-10-28 08:37:47.759] [INFO ] - "result data :"
+[2023-10-28 08:37:47.759] [INFO ] - "ThinkingDataReport result =  json is null"
+[2023-10-28 08:37:49.916] [DEBUG] - Unknown property text-shadow
+[2023-10-28 08:37:53.115] [DEBUG] - Unknown property text-shadow
+[2023-10-28 08:38:10.506] [INFO ] - "postRequest - url :http://gamesdk-en.sl916.com/pc/conversion/upload"
+[2023-10-28 08:38:10.506] [INFO ] - "SLAbstractNetwork"
+[2023-10-28 08:38:10.507] [WARN ] - QObject::connect: No such slot GADataReport::sslErrors(QNetworkReply*, QList<QSslError>) in e:\xingfanproj\qtproj\reverse1999-setupproject\nsis-ui-plugin\qt-ui\network\slabstractnetwork.cpp:88
+[2023-10-28 08:38:10.507] [WARN ] - QObject::connect:  (receiver name: 'SLAbstractNetwork')
+[2023-10-28 08:38:10.507] [INFO ] - "{\"adFid\":\"\",\"appPackageInfo\":{\"adFid\":\"\",\"appInstallTime\":\"\",\"appPackageName\":\"com.bluepoch.m.reverse1999.enlauncher\",\"appSignature\":\"\",\"appUpdateTime\":\"\",\"appVersion\":\"\",\"appVersionName\":\"1.0.1.0\",\"channelId\":\"200\",\"channelVersion\":\"\",\"gameCode\":\"reverse1999\",\"gameId\":\"60001\",\"gameName\":\"reverse1999-en-launcher\",\"gclid\":\"\",\"sdkVersion\":\"\",\"subChannelId\":\"6001\"},\"conversionActionName\":\"click_autoloader_download\",\"deviceInfo\":{\"buildName\":\"winnt-10.0.22621-x86_64\",\"deviceId\":\"55e161cdedce4af2981105ad904e1a19\",\"deviceManufacturer\":\"winnt-10.0.22621-x86_64\",\"deviceName\":\"Windows 10 Version 2009\",\"displayHeight\":\"1020\",\"displayWidth\":\"1920\",\"hardware\":\"Intel(R) Core(TM) i5-4310U CPU @ 2.00GHz\",\"osType\":3,\"osVersion\":\"10\"},\"gclid\":\"\",\"uploadType\":\"once\"}"
+[2023-10-28 08:38:10.509] [INFO ] - "trackThinkDataEvent  eventName =  setup_install_start"
+[2023-10-28 08:38:10.513] [INFO ] - "postDataTrackRequest - url :http://datacollection-en.sl916.com/receiver/app"
+[2023-10-28 08:38:10.513] [INFO ] - "postDataTrackRequest - appId :1e78f13afed14ff2aafc68d79976306f"
+[2023-10-28 08:38:10.513] [WARN ] - QObject::connect: No such slot ThinkingDataReport::sslErrors(QNetworkReply*, QList<QSslError>) in e:\xingfanproj\qtproj\reverse1999-setupproject\nsis-ui-plugin\qt-ui\network\slabstractnetwork.cpp:159
+[2023-10-28 08:38:10.513] [WARN ] - QObject::connect:  (receiver name: 'SLAbstractNetwork')
+[2023-10-28 08:38:10.933] [INFO ] - "result data :"
+[2023-10-28 08:38:10.933] [INFO ] - "ThinkingDataReport result =  json is null"
+[2023-10-28 08:38:11.064] [INFO ] - "result data :{\"code\":4001,\"msg\":\"\xE7\xBC\xBA\xE5\xB0\x91\xE5\x8F\x82\xE6\x95\xB0\"}"
+[2023-10-28 08:38:31.599] [INFO ] - "postRequest - url :http://gamesdk-en.sl916.com/pc/conversion/upload"
+[2023-10-28 08:38:31.599] [INFO ] - "SLAbstractNetwork"
+[2023-10-28 08:38:31.599] [WARN ] - QObject::connect: No such slot GADataReport::sslErrors(QNetworkReply*, QList<QSslError>) in e:\xingfanproj\qtproj\reverse1999-setupproject\nsis-ui-plugin\qt-ui\network\slabstractnetwork.cpp:88
+[2023-10-28 08:38:31.599] [WARN ] - QObject::connect:  (receiver name: 'SLAbstractNetwork')
+[2023-10-28 08:38:31.600] [INFO ] - "{\"adFid\":\"\",\"appPackageInfo\":{\"adFid\":\"\",\"appInstallTime\":\"\",\"appPackageName\":\"com.bluepoch.m.reverse1999.enlauncher\",\"appSignature\":\"\",\"appUpdateTime\":\"\",\"appVersion\":\"\",\"appVersionName\":\"1.0.1.0\",\"channelId\":\"200\",\"channelVersion\":\"\",\"gameCode\":\"reverse1999\",\"gameId\":\"60001\",\"gameName\":\"reverse1999-en-launcher\",\"gclid\":\"\",\"sdkVersion\":\"\",\"subChannelId\":\"6001\"},\"conversionActionName\":\"autoloader_completed\",\"deviceInfo\":{\"buildName\":\"winnt-10.0.22621-x86_64\",\"deviceId\":\"55e161cdedce4af2981105ad904e1a19\",\"deviceManufacturer\":\"winnt-10.0.22621-x86_64\",\"deviceName\":\"Windows 10 Version 2009\",\"displayHeight\":\"1020\",\"displayWidth\":\"1920\",\"hardware\":\"Intel(R) Core(TM) i5-4310U CPU @ 2.00GHz\",\"osType\":3,\"osVersion\":\"10\"},\"gclid\":\"\",\"uploadType\":\"once\"}"
+[2023-10-28 08:38:31.603] [INFO ] - "trackThinkDataEvent  eventName =  setup_install_finish"
+[2023-10-28 08:38:31.608] [INFO ] - "postDataTrackRequest - url :http://datacollection-en.sl916.com/receiver/app"
+[2023-10-28 08:38:31.608] [INFO ] - "postDataTrackRequest - appId :1e78f13afed14ff2aafc68d79976306f"
+[2023-10-28 08:38:31.608] [WARN ] - QObject::connect: No such slot ThinkingDataReport::sslErrors(QNetworkReply*, QList<QSslError>) in e:\xingfanproj\qtproj\reverse1999-setupproject\nsis-ui-plugin\qt-ui\network\slabstractnetwork.cpp:159
+[2023-10-28 08:38:31.609] [WARN ] - QObject::connect:  (receiver name: 'SLAbstractNetwork')
+[2023-10-28 08:38:32.007] [INFO ] - "result data :"
+[2023-10-28 08:38:32.007] [INFO ] - "ThinkingDataReport result =  json is null"
+[2023-10-28 08:38:32.157] [INFO ] - "result data :{\"code\":4001,\"msg\":\"\xE7\xBC\xBA\xE5\xB0\x91\xE5\x8F\x82\xE6\x95\xB0\"}"
+[2023-10-28 08:38:43.407] [DEBUG] - Unknown property text-shadow
+[2023-10-28 08:38:43.887] [DEBUG] - Unknown property text-shadow
+[2023-10-28 08:38:44.012] [INFO ] - "postRequest - url :http://gamesdk-en.sl916.com/pc/conversion/upload"
+[2023-10-28 08:38:44.012] [INFO ] - "SLAbstractNetwork"
+[2023-10-28 08:38:44.013] [WARN ] - QObject::connect: No such slot GADataReport::sslErrors(QNetworkReply*, QList<QSslError>) in e:\xingfanproj\qtproj\reverse1999-setupproject\nsis-ui-plugin\qt-ui\network\slabstractnetwork.cpp:88
+[2023-10-28 08:38:44.013] [WARN ] - QObject::connect:  (receiver name: 'SLAbstractNetwork')
+[2023-10-28 08:38:44.013] [INFO ] - "{\"adFid\":\"\",\"appPackageInfo\":{\"adFid\":\"\",\"appInstallTime\":\"\",\"appPackageName\":\"com.bluepoch.m.reverse1999.enlauncher\",\"appSignature\":\"\",\"appUpdateTime\":\"\",\"appVersion\":\"\",\"appVersionName\":\"1.0.1.0\",\"channelId\":\"200\",\"channelVersion\":\"\",\"gameCode\":\"reverse1999\",\"gameId\":\"60001\",\"gameName\":\"reverse1999-en-launcher\",\"gclid\":\"\",\"sdkVersion\":\"\",\"subChannelId\":\"6001\"},\"conversionActionName\":\"autoloader_open\",\"deviceInfo\":{\"buildName\":\"winnt-10.0.22621-x86_64\",\"deviceId\":\"55e161cdedce4af2981105ad904e1a19\",\"deviceManufacturer\":\"winnt-10.0.22621-x86_64\",\"deviceName\":\"Windows 10 Version 2009\",\"displayHeight\":\"1020\",\"displayWidth\":\"1920\",\"hardware\":\"Intel(R) Core(TM) i5-4310U CPU @ 2.00GHz\",\"osType\":3,\"osVersion\":\"10\"},\"gclid\":\"\",\"uploadType\":\"once\"}"
+[2023-10-28 08:38:44.014] [INFO ] - "trackThinkDataEvent  eventName =  setup_openlauncher"
+[2023-10-28 08:38:44.017] [INFO ] - "postDataTrackRequest - url :http://datacollection-en.sl916.com/receiver/app"
+[2023-10-28 08:38:44.018] [INFO ] - "postDataTrackRequest - appId :1e78f13afed14ff2aafc68d79976306f"
+[2023-10-28 08:38:44.018] [WARN ] - QObject::connect: No such slot ThinkingDataReport::sslErrors(QNetworkReply*, QList<QSslError>) in e:\xingfanproj\qtproj\reverse1999-setupproject\nsis-ui-plugin\qt-ui\network\slabstractnetwork.cpp:159
+[2023-10-28 08:38:44.018] [WARN ] - QObject::connect:  (receiver name: 'SLAbstractNetwork')
+[2023-10-28 08:38:44.357] [WARN ] - QIODevice::read (QProcess): device not open
